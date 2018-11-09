@@ -1,2 +1,2 @@
 # BrainWaveNode
-node websocket for emotiv insight
+node websocket client for emotiv insight
